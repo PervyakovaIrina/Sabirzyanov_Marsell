@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+movies.json
+
+git add .
+git commit -m "Initial commit: Movie Library with GUI, filters, and JSON storage"
+
+git remote add origin https://github.com/ваш-ник/movie-library.git
+git branch -M main
+git push -u origin main
